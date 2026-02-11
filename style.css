@@ -1,0 +1,28 @@
+body {
+  background: #0b0f1a;
+  color: #00e5ff;
+  font-family: Arial;
+  text-align: center;
+}
+
+.login-box {
+  margin: 20px;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #00e5ff;
+  border: none;
+  cursor: pointer;
+}
+
+#reader {
+  width: 250px;
+  margin: auto;
+}
